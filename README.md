@@ -9,5 +9,5 @@ then you can try this scripts
 
 but if patched, just not use this 
 
-Usage: python3 dbuster.py <user_name>
+Usage: python3 gdbuster.py <user_name>
 
